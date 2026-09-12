@@ -1,1 +1,68 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCiFbaGVhZGVyXShodHRwczovL2NhcHN1bGUtcmVuZGVyLnZlcmNlbC5hcHAvYXBpP3R5cGU9d2F2aW5nJmNvbG9yPTA6MGQxMTE3LDUwOjFhM2E1YywxMDA6NThhNmZmJmhlaWdodD0xODAmc2VjdGlvbj1oZWFkZXImdGV4dD1XZXN0aXJlcyZmb250U2l6ZT01MiZmb250Q29sb3I9ZmZmZmZmJmZvbnRBbGlnblk9NDAmZGVzYz1Tb2Z0d2FyZSUyMERldmVsb3BlciUyMCVFMiU4MCU5NCUyMFR1cmtleSZkZXNjU2l6ZT0xNSZkZXNjQWxpZ25ZPTYwJmRlc2NDb2xvcj04YjlhYjApCgpbIVtUeXBpbmcgU1ZHXShodHRwczovL3JlYWRtZS10eXBpbmctc3ZnLmRlbW9sYWIuY29tP2ZvbnQ9RmlyYStDb2RlJnNpemU9MTQmcGF1c2U9MTIwMCZjb2xvcj01OEE2RkYmY2VudGVyPXRydWUmdkNlbnRlcj10cnVlJndpZHRoPTU2MCZsaW5lcz1NaW5lY3JhZnQrUGFwZXIrJTJGK0J1a2tpdCtwbHVnaW4rZGV2ZWxvcGVyO0Rpc2NvcmQrYm90cyslMjYrYmFja2VuZCtzeXN0ZW1zO1dlYithcHBzK3dpdGgrVHlwZVNjcmlwdCslMkYrTm9kZS5qcztBSStUT29saW5nKyUyNitsb2NhbCtMTE0raW50ZWdyYXRpb25zO0J1aWxkaW5nK3JlYWwrcHJvamVjdHMlMkMrbm90K2RlbW9zKV0oaHR0cHM6Ly9naXQuaW8vdHlwaW5nLXN2ZykKCjwvZGl2PgoKLS0tCgpJJ20gRnVya2FuIOKAlCAxNywgYmFzZWQgaW4gVHVya2V5LCB3cml0aW5nIHNvZnR3YXJlIGFjcm9zcyBhIGZldyBkaWZmZXJlbnQgYXJlYXMuCgpNeSBzdHJvbmdlc3QgYXJlYSBpcyAqKk1pbmVjcmFmdCBzZXJ2ZXItc2lkZSBkZXZlbG9wbWVudCoqOiBQYXBlci9CdWtraXQgcGx1Z2lucywgY3VzdG9tIGdhbWVwbGF5IG1lY2hhbmljcywgR1VJIHN5c3RlbXMsIHBhcnRpY2xlIGFuZCB2aXN1YWwgZWZmZWN0cywgSXRlbXNBZGRlci9OZXhvIGludGVncmF0aW9ucywgYW5kIHBlcmZvcm1hbmNlLXNlbnNpdGl2ZSBzeXN0ZW1zIHRoYXQgaG9sZCB1cCB1bmRlciByZWFsIHNlcnZlciBsb2FkLiBJIGNhcmUgYWJvdXQgd3JpdGluZyBjbGVhbiwgZGlyZWN0IHBsdWdpbiBjb2RlIHdpdGhvdXQgdW5uZWNlc3NhcnkgYWJzdHJhY3Rpb24gbGF5ZXJzIG9yIGRlcGVuZGVuY3kgYmxvYXQuCgpCZXlvbmQgTWluZWNyYWZ0LCBJIHdvcmsgd2l0aCAqKlR5cGVTY3JpcHQgYW5kIE5vZGUuanMqKiBmb3IgRGlzY29yZCBib3RzIGFuZCBiYWNrZW5kIHN5c3RlbXMsIGJ1aWxkIHdlYiBpbnRlcmZhY2VzIHdpdGggYSBwcmVmZXJlbmNlIGZvciBtb2Rlcm4gZGFyayBVSSwgYW5kIHNwZW5kIHRpbWUgb24gKipBSSB0b29saW5nKiog4oCUIGxvY2FsIExMTSBzZXR1cHMsIHRvb2wtY2FsbGluZyBhZ2VudHMsIGFuZCBBSS1hc3Npc3RlZCBkZXZlbG9wbWVudCB3b3JrZmxvd3MuCgpJIGJ1aWxkIHRoaW5ncyBlbmQtdG8tZW5kLiBDb2RlIHRoYXQgd29ya3MgaXMgdGhlIGZsb29yLCBub3QgdGhlIGNlaWxpbmcg4oCUIEkgY2FyZSBhYm91dCB3aGV0aGVyIHRoZSByZXN1bHQgaXMgcHJvZmVzc2lvbmFsLCBtYWludGFpbmFibGUsIGFuZCBhY3R1YWxseSB1c2VmdWwuCgotLS0KCjxkaXYgYWxpZ249ImNlbnRlciI+CgoqKkxhbmd1YWdlcyoqCgpbIVtMYW5ndWFnZXNdKGh0dHBzOi8vc2tpbGxpY29ucy5kZXYvaWNvbnM/aT1qYXZhLHRzLGpzLHB5LGh0bWwsY3NzJnBlcmxpbmU9NildKGh0dHBzOi8vc2tpbGxpY29ucy5kZXYpCgoqKlRvb2xzICYgRWNvc3lzdGVtKioKClshW1Rvb2xzXShodHRwczovL3NraWxsaWNvbnMuZGV2L2ljb25zP2k9bm9kZWpzLHJlYWN0LGdyYWRsZSxtYXZlbixnaXQsaWRlYSZwZXJsaW5lPTYpXShodHRwczovL3NraWxsaWNvbnMuZGV2KQoKPC9kaXY+CgotLS0KCiMjIyBGb2N1cyBBcmVhcwoKKipNaW5lY3JhZnQgRGV2ZWxvcG1lbnQqKgpQYXBlciAvIEJ1a2tpdCBBUEksIEZhYnJpYywgU3BpZ290LCBJdGVtc0FkZGVyLCBOZXhvLCBWYXVsdCwgU2tyaXB0LCBza0JlZSwgc2tyaXB0LXJlZmxlY3QgLS0gY3VzdG9tIGl0ZW1zLCBHVUkgc3lzdGVtcywgZ2FtZXBsYXkgbWVjaGFuaWNzLCBlbnRpdHkgYW5kIGNodW5rIHN5c3RlbXMsIHNlcnZlciB1dGlsaXRpZXMsIGVjb25vbXkgaW50ZWdyYXRpb25zLCBkaXNwbGF5IGVudGl0aWVzLCBraWxsIGVmZmVjdHMsIHBhcnRpY2xlIHN5c3RlbXMuCgoqKldlYiAmIEJhY2tlbmQqKgpOb2RlLmpzLCBUeXBlU2NyaXB0LCBSZWN0IC0tIERpc2NvcmQgYm90cyB3aXRoIHNsYXNoIGNvbW1hbmRzIGFuZCBBUEkgaW50ZWdyYXRpb25zLCBiYWNrZW5kIHNlcnZpY2VzLCB3ZWIgYXBwbGljYXRpb25zLgoKKipBSSAvIExMTSoqCk9wZW5BSS1jb21wYXRpYmxlIEFQSXMsIGxvY2FsIGluZmVyZW5jZSAobGxhbWEuY3BwLCBPcGVuIFdlYlVJKSwgdG9vbCBjYWxsaW5nLCBmdW5jdGlvbiBjYWxsaW5nLCBjb250ZXh0IG1hbmFnZW1lbnQsIEFJLWFzc2lzdGVkIGRldmVsb3BtZW50LCBhZ2VudGljIGRldmVsb3BlciB0b29scy4KCi0tLQoKIyMjIEFjdGl2ZSBQcm9qZWN0cwoKKipBZ2FsYXIgU01QIC8gQWdhbGFyIENlbWl5ZXRpKiog4oCUIE1pbmVjcmFmdCBzZXJ2ZXIgZWNvc3lzdGVtIGluY2x1ZGluZyBjdXN0b20gcGx1Z2lucywgRGlzY29yZCBpbmZyYXN0cnVjdHVyZSwgYW5kIGNvbW11bml0eSBzeXN0ZW1zLgoKKipWRVlSQSoqICooaW4gZGV2ZWxvcG1lbnQpKiAg4oCUIEEgbWFya2V0cGxhY2UgY29uY2VwdCBmb3IgTWluZWNyYWZ0IGNvbnRlbnQgY3JlYXRvcnM6IG1hcHMsIGJ1aWxkcywgcmVzb3VyY2UgcGFja3MsIHNraW5zLCBwbHVnaW5zLCBtb2RzLCBtb2RlbHMsIGFuZCBjb25maWd1cmF0aW9ucy4KCi0tLQoKPGRpdiBhbGlnbj0iY2VudGVyIj4KCiFbU3RhdHNdKGh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaT91c2VybmFtZT13ZXN0aXJlcyZzaG93X2ljb25zPXRydWUmdGhlbWU9Z2l0aHViX2RhcmsmaGlkZV9ib3JkZXI9dHJ1ZSZiZ19jb2xvcj0wZDExMTcmdGl0bGVfY29sb3I9NThhNmZmJmljb25fY29sb3I9NThhNmZmJnRleHRfY29sb3I9OGI5YWIwJnJhbmtfaWNvbj1naXRodWIpJm5ic3A7Jm5ic3A7IVtUb3AgTGFuZ3NdKGh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaS90b3AtbGFuZ3MvP3VzZXJuYW1lPXdlc3RpcmVzJmxheW91dD1jb21wYWN0JnRoZW1lPWdpdGh1Yl9kYXJrJmhpZGVfYm9yZGVyPXRydWUmYmdfY29sb3I9MGQxMTE3JnRpdGxlX2NvbG9yPTU4YTZmZiZ0ZXh0X2NvbG9yPThiOWFiMCkKCjwvZGl2PgoKLS0tCgo8ZGl2IGFsaWduPSJjZW50ZXIiPgoKIVtmb290ZXJdKGh0dHBzOi8vY2Fwc3VsZS1yZW5kZXIudmVyY2VsLmFwcC9hcGk/dHlwZT13YXZpbmcmY29sb3I9MDo1OGE2ZmYsNTA6MWEzYTVjLDEwMDowZDExMTcmaGVpZ2h0PTEwMCZzZWN0aW9uPWZvb3RlcikKCjwvZGl2Pg==
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=180&section=header&text=Westires&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%E2%80%94%20Turkey&descSize=15&descAlignY=60&descColor=8b9ab0)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Minecraft+Paper+%2F+Bukkit+plugin+developer;Discord+bots+%26+backend+systems;Web+apps+with+TypeScript+%2F+Node.js;AI+tooling+%26+local+LLM+integrations;Building+real+projects%2C+not+demos)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+I'm Furkan -- 17, based in Turkey, writing software across a few different areas.
+
+My strongest area is **Minecraft server-side development**: Paper/Bukkit plugins, custom gameplay mechanics, GUI systems, particle and visual effects, ItemsAdder/Nexo integrations, and performance-sensitive systems that hold up under real server load. I care about writing clean, direct plugin code without unnecessary abstraction layers or dependency bloat.
+
+Beyond Minecraft, I work with **TypeScript and Node.js** for Discord bots and backend systems, build web interfaces with a preference for modern dark UI, and spend time on **AI tooling** -- local LLM setups, tool-calling agents, and AI-assisted development workflows.
+
+I build things end-to-end. Code that works is the floor, not the ceiling -- I care about whether the result is professional, maintainable, and actually useful.
+
+---
+
+<div align="center">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=java,ts,js,py,html,css&perline=6)](https://skillicons.dev)
+
+**Tools & Ecosystem**
+
+[![Tools](https://skillicons.dev/icons?i=nodejs,react,gradle,maven,git,idea&perline=6)](https://skillicons.dev)
+
+</div>
+
+---
+
+### Focus Areas
+
+**Minecraft Development**
+Paper / Bukkit API, Fabric, Spigot, ItemsAdder, Nexo, Vault, Skript, skBee, skript-reflect -- custom items, GUI systems, gameplay mechanics, entity and chunk systems, server utilities, economy integrations, display entities, kill effects, particle systems.
+
+**Web & Backend**
+Node.js, TypeScript, React -- Discord bots with slash commands and API integrations, backend services, web applications.
+
+**AI / LLM**
+OpenAI-compatible APIs, local inference (llama.cpp, Open WebUI), tool calling, function calling, context management, AI-assisted development, agentic developer tools.
+
+---
+
+### Active Projects
+
+**Agalar SMP / Agalar Cemiyeti** -- Minecraft server ecosystem including custom plugins, Discord infrastructure, and community systems.
+
+**VEYRA** *(in development)* -- A marketplace concept for Minecraft content creators: maps, builds, resource packs, skins, plugins, mods, models, and configurations.
+
+---
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=westires&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b9ab0&rank_icon=github)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westires&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b9ab0)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a3a5c,100:0d1117&height=100&section=footer)
+
+</div>
