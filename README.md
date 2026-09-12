@@ -1,19 +1,33 @@
-## Hi, I'm Furkan
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&width=500&lines=Minecraft+plugin+developer;Discord+bot+builder;Web+%26+AI+tooling;TypeScript+%2F+Java+%2F+Python)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=160&section=header&text=Westires&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%94%20Turkey&descSize=16&descAlignY=58&descColor=aaaaaa)
 
-Developer based in Turkey. I work across a few different areas — Minecraft server-side development, Discord bots, web applications, and AI tooling.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Minecraft+plugin+developer;Discord+bot+builder;Web+%26+AI+tooling;TypeScript+%2F+Java+%2F+Python)](https://git.io/typing-svg)
 
-Most of my Minecraft work revolves around Paper/Bukkit plugins: custom gameplay mechanics, GUI systems, particle effects, and integration with ecosystems like ItemsAdder and Nexo. I focus on performance and writing systems that actually hold up under real server load rather than ones that just demo well.
-
-Outside Minecraft, I build with TypeScript and Node.js for both Discord bots and web projects. I also do a lot of AI-assisted development — using LLMs as a core part of my workflow, not just for autocomplete. Local LLM setups, tool-calling agents, and vibe-coding full projects end to end.
+</div>
 
 ---
 
-**Languages & Tools**
+I build things in a few different areas. Most of my Minecraft work is Paper/Bukkit plugins — custom gameplay mechanics, GUI systems, particle effects, and integration with ItemsAdder and Nexo. I care about performance and writing systems that hold up under actual server load, not just ones that demo well.
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,js,py,html,css,nodejs,react)](https://skillicons.dev)
+Outside Minecraft, I work with TypeScript and Node.js for Discord bots and web projects. I also spend a lot of time on AI tooling — local LLM setups, tool-calling agents, and building full projects end-to-end with AI-assisted workflows.
 
 ---
 
-Currently working on Paper plugin systems and exploring LLM-based tooling. Most of it is work in progress, some of it shipped.
+<div align="center">
+
+**Tech Stack**
+
+<br>
+
+[![Skills](https://skillicons.dev/icons?i=java,ts,js,py,html,css,nodejs,react&perline=8)](https://skillicons.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer)
+
+</div>
