@@ -55,7 +55,9 @@ OpenAI-compatible APIs, local inference (llama.cpp, Open WebUI), tool calling, f
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=westires&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b9ab0&rank_icon=github)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=westires&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b9ab0)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=westires&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=westires&theme=github_dark)&nbsp;&nbsp;![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=westires&theme=github_dark)
 
 </div>
 
