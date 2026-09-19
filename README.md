@@ -47,8 +47,6 @@ OpenAI-compatible APIs, local inference (llama.cpp, Open WebUI), tool calling, f
 
 ### Active Projects
 
-**Agalar SMP / Agalar Cemiyeti** -- Minecraft server ecosystem including custom plugins, Discord infrastructure, and community systems.
-
 **VEYRA** *(in development)* -- A marketplace concept for Minecraft content creators: maps, builds, resource packs, skins, plugins, mods, models, and configurations.
 
 ---
