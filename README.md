@@ -8,7 +8,7 @@
 
 ---
 
-I'm Furkan -- 17, based in Turkey, writing software across a few different areas.
+I'm Furkan -- 18, based in Turkey, writing software across a few different areas.
 
 My strongest area is **Minecraft server-side development**: Paper/Bukkit plugins, custom gameplay mechanics, GUI systems, particle and visual effects, ItemsAdder/Nexo integrations, and performance-sensitive systems that hold up under real server load. I care about writing clean, direct plugin code without unnecessary abstraction layers or dependency bloat.
 
